@@ -10,7 +10,7 @@
 
 ### Logic and Code:
 - Arduino UNO R3
-- ESP32
+- ESP32-CAM
 
 
 ### Measuring:
