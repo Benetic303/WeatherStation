@@ -7,7 +7,7 @@
 - Temperature and Humidity Sensor
 - Photoresistor for measuring light
 - Realtime clock for accurate dates
-- camera
+- camera (images take about 1 MB of storage)
 
 ### Storage:
 - MicroSD card
@@ -16,3 +16,10 @@
 - battery powered
 - power outlet for inside or testing
 - maybe solar powered in the future
+
+
+### Libaries:
+- DHTLib
+- RTClib : [https://github.com/adafruit/RTClib](https://github.com/adafruit/RTClib)
+- Wire (#include <Wire.h>)
+- define custom I2C pins in software for ESP32, for using RTC (DS3231 I2C)
