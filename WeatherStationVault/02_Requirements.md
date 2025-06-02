@@ -13,9 +13,7 @@
 - MicroSD card
 
 ### Power supply:
-- battery powered
-- power outlet for inside or testing
-- maybe solar powered in the future
+- 
 
 
 ### Libaries:

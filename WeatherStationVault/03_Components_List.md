@@ -9,7 +9,7 @@
 
 
 ### Logic and Code:
-- Arduino UNO R3
+- (Arduino UNO R3)
 - ESP32-CAM
 
 
@@ -22,9 +22,8 @@
 
 ### Storage and Power supply:
 - MicroSD card inside the ESP32
-- Power Supply Module
-- trough Battery
-- trough USB cable 
+- 6V 2W Solar Panel - ETFE - Voltaic P126
+- 
 
 ### Extras:
 - case (maybe 3D printed)

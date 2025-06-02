@@ -5,9 +5,10 @@
 - automaticly take pictures with the ESP32-CAM
 - store the Data on a MicroSD card
 - analyse the data with my own Software
-- learn about programming an Arduino and an ESP32
+- learn about programming with an ESP32
 - learn to graph data using Python
 - document the process
+- use solar energy
 
 
 ### Features of the Weather Station:
@@ -21,3 +22,4 @@
 - no network
 - realtime clock
 - rain resistance
+- powered by solar panels

@@ -35,7 +35,8 @@
               "title": "03_Components_List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "59dac00154a3846f",
@@ -202,10 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1bf40b950239fde",
+  "active": "6c3744f3b0feabbc",
   "lastOpenFiles": [
+    "01_Project_Overview.md",
     "02_Requirements.md",
-    "03_Components_List.md",
-    "01_Project_Overview.md"
+    "03_Components_List.md"
   ]
 }
